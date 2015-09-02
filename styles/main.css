@@ -1,10 +1,12 @@
 .navbar {
   background: white;
   padding: 5px; }
-  .navbar a {
-    font-size: 25px; }
-  .navbar .navbar-brand span {
-    color: blue; }
+
+.navbar a {
+  font-size: 25px; }
+
+.navbar .navbar-brand span {
+  color: blue; }
 
 .navbar-default .navbar-toggle .icon-bar {
   background-color: white; }
@@ -28,8 +30,9 @@
   color: white;
   font-size: 22px;
   overflow: hidden; }
-  .hero-img span {
-    font-size: 50px; }
+
+.hero-img span {
+  font-size: 50px; }
 
 main {
   padding: 15px; }
@@ -44,6 +47,9 @@ main {
 
 .padding {
   padding: 15px; }
+
+links li a {
+  color: #99A1AC; }
 
 footer {
   overflow: hidden;
